@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#050506"/>
+  <rect x="38" y="38" width="1124" height="554" rx="20" stroke="#C8AB6A" stroke-opacity="0.32"/>
+  <path d="M0 510C180 460 320 560 520 515C770 460 890 290 1100 300C1150 305 1178 314 1200 326V630H0V510Z" fill="#5A1820" fill-opacity="0.34"/>
+  <text x="600" y="280" fill="#F5F2E9" text-anchor="middle" font-family="Arial" font-size="70" letter-spacing="10">ARTEFFECT</text>
+  <text x="600" y="350" fill="#C8AB6A" text-anchor="middle" font-family="Arial" font-size="28" letter-spacing="6">WEAR THE EFFECT</text>
+</svg>

@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  border-color: #2a2a2a;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+a {
+  color: #e6d3a3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f2c94c;
+}
+
+::selection {
+  background: rgba(230, 211, 163, 0.3);
+  color: #f5f5f5;
+}
+
+:focus-visible {
+  outline: 2px solid rgba(230, 211, 163, 0.6);
+  outline-offset: 2px;
+}
+
+/* NGO logos – contain fit for diverse aspect ratios */
+.placeholdermedia--ngo-logo img {
+  object-fit: contain !important;
+  padding: 1.5rem;
+}

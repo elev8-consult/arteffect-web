@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" fill="none">
+  <rect width="900" height="1200" fill="#0B0C0F"/>
+  <rect x="70" y="70" width="760" height="1060" rx="20" stroke="#C8AB6A" stroke-opacity="0.35"/>
+  <circle cx="450" cy="470" r="210" fill="#13161C" stroke="#C8AB6A" stroke-opacity="0.32"/>
+  <path d="M450 650C300 650 190 760 190 910V970H710V910C710 760 600 650 450 650Z" fill="#5A1820" fill-opacity="0.35"/>
+  <text x="450" y="1080" fill="#F5F2E9" text-anchor="middle" font-family="Arial" font-size="42" letter-spacing="6">ARTIST PORTRAIT</text>
+</svg>

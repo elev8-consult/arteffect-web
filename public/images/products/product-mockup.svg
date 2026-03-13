@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1200" viewBox="0 0 1000 1200" fill="none">
+  <rect width="1000" height="1200" fill="#0B0C0F"/>
+  <rect x="60" y="60" width="880" height="1080" rx="20" stroke="#C8AB6A" stroke-opacity="0.35"/>
+  <path d="M330 260L430 190H570L670 260L730 420V980H270V420L330 260Z" fill="#13161C" stroke="#C8AB6A" stroke-opacity="0.24"/>
+  <rect x="380" y="490" width="240" height="280" rx="12" fill="#5A1820" fill-opacity="0.35"/>
+  <text x="500" y="1060" fill="#F5F2E9" text-anchor="middle" font-family="Arial" font-size="36" letter-spacing="6">PRODUCT MOCKUP</text>
+</svg>

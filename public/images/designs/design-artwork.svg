@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" fill="none">
+  <rect width="1200" height="1200" fill="#0B0C0F"/>
+  <rect x="70" y="70" width="1060" height="1060" rx="22" stroke="#C8AB6A" stroke-opacity="0.35"/>
+  <path d="M220 760C220 600 340 470 500 470C620 470 720 550 760 660C790 620 850 590 920 590C1010 590 1080 660 1080 750C1080 860 980 930 860 930H450C300 930 220 860 220 760Z" fill="#5A1820" fill-opacity="0.36"/>
+  <circle cx="470" cy="420" r="135" stroke="#F5F2E9" stroke-opacity="0.5" stroke-width="2"/>
+  <circle cx="690" cy="350" r="92" stroke="#246BFF" stroke-opacity="0.42" stroke-width="2"/>
+  <text x="600" y="1070" fill="#F5F2E9" text-anchor="middle" font-family="Arial" font-size="44" letter-spacing="8">DESIGN ARTWORK</text>
+</svg>

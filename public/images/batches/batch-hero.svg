@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none">
+  <rect width="1600" height="1000" fill="#0B0C0F"/>
+  <rect x="80" y="80" width="1440" height="840" rx="24" stroke="#C8AB6A" stroke-opacity="0.35"/>
+  <path d="M0 760C200 640 410 830 630 730C860 630 1060 440 1310 510C1450 550 1540 650 1600 700V1000H0V760Z" fill="#5A1820" fill-opacity="0.28"/>
+  <text x="800" y="500" fill="#F5F2E9" text-anchor="middle" font-family="Arial" font-size="54" letter-spacing="8">BATCH HERO</text>
+</svg>
